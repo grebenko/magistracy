@@ -1,0 +1,17 @@
+/*
+This is an example Overpass query.
+Try it out by pressing the Run button above!
+You can find more examples with the Load tool.
+*/
+
+
+[out:json]; 
+area(3600421007)->.searchArea;
+(
+  node["tourism"="attraction"](area.searchArea);
+  node["tourism"="viewpoint"](area.searchArea);
+);
+/*added by auto repair*/
+(._;>;);
+/*end of auto repair*/
+out body;

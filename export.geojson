@@ -1,0 +1,4333 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-12-16T14:42:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/21751966",
+        "name": "Озёрная",
+        "opening_hours": "Th-Su 11:00-15:00",
+        "operator": "Малая Октябрьская железная дорога",
+        "phone": "+7 812 4575149",
+        "platforms": "2",
+        "railway": "station",
+        "tourism": "attraction",
+        "train": "yes",
+        "website": "http://dorogaru.info/mzd/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2964601,
+          60.039202
+        ]
+      },
+      "id": "node/21751966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/249082841",
+        "alt_name": "Медный всадник",
+        "alt_name:en": "Bronze Horseman",
+        "alt_name:fi": "Vaskiratsastaja",
+        "historic": "monument",
+        "memorial:subject": "Пётр Алексеевич Романов",
+        "name": "Петру Великому",
+        "name:de": "Peter der Große",
+        "name:en": "Peter the Great",
+        "name:es": "Jinete de Bronce de Pedro I el Grande",
+        "name:fa": "اسب سوار برنزی (پیتر کبیر)",
+        "name:fi": "Pietari Suuri",
+        "name:fr": "Le cavalier de bronze",
+        "name:ru": "Петру Великому",
+        "name:zh": "彼得大帝青铜骑士像",
+        "subject:wikipedia": "ru:Пётр I",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikidata": "Q672444",
+        "wikipedia": "ru:Медный всадник"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3022096,
+          59.9363994
+        ]
+      },
+      "id": "node/249082841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/302252549",
+        "historic": "memorial",
+        "memorial": "statue",
+        "name": "Памятник Чернышевскому",
+        "name:de": "Tschernyschewski-Denkmal",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3195512,
+          59.8689025
+        ]
+      },
+      "id": "node/302252549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/334791500",
+        "historic": "memorial",
+        "memorial": "statue",
+        "name": "Памятник Суворову",
+        "name:de": "Suworow-Denkmal",
+        "name:en": "Suvorov Monument",
+        "name:zh": "苏沃洛夫纪念碑",
+        "tourism": "attraction",
+        "wikidata": "Q4343361",
+        "wikipedia": "ru:Памятник Суворову (Санкт-Петербург)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3298623,
+          59.9459073
+        ]
+      },
+      "id": "node/334791500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/339816775",
+        "name": "Цветочные часы",
+        "name:de": "Blumenuhr",
+        "name:en": "Floral Clock",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3099079,
+          59.9556849
+        ]
+      },
+      "id": "node/339816775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/446272328",
+        "description:en": "monument to victims of Soviet-Finnish War",
+        "historic": "memorial",
+        "inscription": "Вечная память павшим на Советско-Финляндской войне 1939-1940",
+        "memorial": "war_memorial",
+        "memorial:conflict": "WW2",
+        "name": "жертвам Советско-Финляндской войны",
+        "name:en": "Soviet-Finnish War Memorial",
+        "name:ru": "памятник жертвам Советско-Финляндской войны",
+        "name:zh": "纪念碑的受害者苏芬兰的战争",
+        "subject:wikidata": "Q134949",
+        "subject:wikipedia": "ru:Советско-финляндская война (1939—1940)",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.350392,
+          59.9559811
+        ]
+      },
+      "id": "node/446272328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/477027518",
+        "historic": "memorial",
+        "memorial": "statue",
+        "name": "Пушкин",
+        "name:de": "Puschkin",
+        "name:en": "Pushkin",
+        "name:zh": "普希金銅像",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikidata": "Q9396452",
+        "wikipedia": "ru:Памятник А. С. Пушкину (Санкт-Петербург, площадь Искусств)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3316215,
+          59.9372583
+        ]
+      },
+      "id": "node/477027518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/669936547",
+        "name": "Стрелка Васильевского острова",
+        "name:en": "The Strelka",
+        "name:fr": "Pointe de l'île Vassilievski",
+        "name:zh": "瓦西里岛",
+        "tourism": "viewpoint",
+        "wheelchair": "limited",
+        "wikidata": "Q2367636",
+        "wikipedia": "ru:Стрелка Васильевского острова"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3072491,
+          59.9442977
+        ]
+      },
+      "id": "node/669936547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737972711",
+        "description": "Виктор Робертович Цой (21 июня 1962 г. — 15 августа 1990 г.) — советский рок-музыкант, автор песен, художник. Основатель и бессменный лидер группы «Кино», в которой пел, играл на гитаре, писал музыку и стихи.",
+        "historic": "memorial",
+        "name": "Могила Виктора Цоя",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3993701,
+          59.9903423
+        ]
+      },
+      "id": "node/737972711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/812011824",
+        "name": "Невская панорама",
+        "name:zh": "涅瓦河景觀台",
+        "note": "excellent view on Sankt-Peterburg",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.318162,
+          59.9491949
+        ]
+      },
+      "id": "node/812011824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/951709427",
+        "name": "Башня грифонов",
+        "name:en": "Grifons tower",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2836664,
+          59.9381399
+        ]
+      },
+      "id": "node/951709427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/993613428",
+        "historic": "ruins",
+        "name": "Гром-камень",
+        "name:de": "Donnerstein",
+        "name:en": "Thunder Stone",
+        "natural": "stone",
+        "opening_hours": "24/7",
+        "tourism": "attraction",
+        "wheelchair": "limited",
+        "wikidata": "Q24930021",
+        "wikipedia": "ru:Гром-камень"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1279862,
+          59.9884965
+        ]
+      },
+      "id": "node/993613428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1033403758",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3760966,
+          59.9524904
+        ]
+      },
+      "id": "node/1033403758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1123474657",
+        "height": "6",
+        "historic": "monument",
+        "material": "bronze",
+        "memorial": "statue",
+        "name": "Николай I",
+        "name:de": "Nikolaus I.",
+        "name:en": "Nicholas I",
+        "name:es": "Monumento a Nicolás I",
+        "name:fa": "نیکولای اول",
+        "name:zh": "尼古拉我",
+        "start_date": "1859-06-25",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikidata": "Q2081756",
+        "wikipedia": "ru:Памятник Николаю I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3084347,
+          59.932104
+        ]
+      },
+      "id": "node/1123474657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1167148015",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3108178,
+          60.0403784
+        ]
+      },
+      "id": "node/1167148015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1191476119",
+        "addr:city": "Санкт-Петербург",
+        "addr:street": "Университетская набережная",
+        "name": "Древнеегипетский сфинкс",
+        "name:de": "Sphinx und Bronzelöwe",
+        "name:en": "Ancient Egyptian sphinx",
+        "tourism": "attraction",
+        "wikidata": "Q2657856",
+        "wikipedia": "ru:Сфинксы на Университетской набережной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2905184,
+          59.9368819
+        ]
+      },
+      "id": "node/1191476119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1191476126",
+        "addr:city": "Санкт-Петербург",
+        "addr:street": "Университетская набережная",
+        "name": "Древнеегипетский сфинкс",
+        "name:de": "Sphinx und Bronzelöwe",
+        "name:en": "Ancient Egyptian sphinx",
+        "tourism": "attraction",
+        "wikidata": "Q2657856",
+        "wikipedia": "ru:Сфинксы на Университетской набережной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2911776,
+          59.937077
+        ]
+      },
+      "id": "node/1191476126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1312226165",
+        "historic": "memorial",
+        "memorial": "statue",
+        "name": "Памятник Александру III",
+        "name:de": "Denkmal für Alexander III.",
+        "name:en": "Monument to Alexander III",
+        "name:zh": "纪念碑亚历山大三世",
+        "tourism": "attraction",
+        "wikidata": "Q4343046",
+        "wikipedia": "ru:Памятник Александру III (Санкт-Петербург)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3274499,
+          59.9453876
+        ]
+      },
+      "id": "node/1312226165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1389704850",
+        "name": "Надпись Ленинград",
+        "name:en": "Inscription Ленинград",
+        "tourism": "attraction",
+        "traffic_sign": "city_limit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.168662,
+          59.8866578
+        ]
+      },
+      "id": "node/1389704850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1390323921",
+        "name": "\"Башня\" Вячеслава Иванова",
+        "name:en": "Vyacheslav Ivanov \"Tower\"",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3784451,
+          59.9467255
+        ]
+      },
+      "id": "node/1390323921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1421750016",
+        "description:en": "Monument to Baronet James V. Wylie 1768-1854, chief physician of the Russian army",
+        "historic": "memorial",
+        "memorial": "statue",
+        "name": "Я.В. Виллие",
+        "name:en": "James Wyllie",
+        "tourism": "attraction",
+        "wikidata": "Q1681328",
+        "wikipedia": "ru:Виллие, Яков Васильевич"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3467548,
+          59.95777
+        ]
+      },
+      "id": "node/1421750016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1459207052",
+        "description:en": "Monument to Peter I, who learnt wooden ship building incognito in Saardame , Netherlands.",
+        "historic": "memorial",
+        "memorial": "statue",
+        "name": "Царь-плотник",
+        "name:en": "Carpenter King",
+        "name:es": "rey carpintero",
+        "name:fr": "Le roi charpentier",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikidata": "Q4503271",
+        "wikipedia": "ru:Царь-плотник"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3075884,
+          59.939222
+        ]
+      },
+      "id": "node/1459207052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1464061393",
+        "artist_name": "Николай Евгеньевич Лансере",
+        "name": "Метеорологический павильон",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3256367,
+          59.9378002
+        ]
+      },
+      "id": "node/1464061393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1485023689",
+        "name": "Финляндский мост",
+        "name:fi": "Suomen rautatiesilta",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4054787,
+          59.9145907
+        ]
+      },
+      "id": "node/1485023689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1485023693",
+        "name": "вид на набережную",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4205283,
+          59.9070959
+        ]
+      },
+      "id": "node/1485023693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1502812638",
+        "name": "Город сверху",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3316268,
+          59.7730832
+        ]
+      },
+      "id": "node/1502812638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1502812640",
+        "name": "Юг города",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3331046,
+          59.7717198
+        ]
+      },
+      "id": "node/1502812640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1509196359",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3147563,
+          59.952616
+        ]
+      },
+      "id": "node/1509196359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1579387418",
+        "architect": "В. А. Петров, А. Г. Леляков",
+        "artist_name": "А. М. Игнатьев, А. А. Дема",
+        "height": "9",
+        "historic": "memorial",
+        "image": "http://commons.wikimedia.org/wiki/File:Decembrist_execution_stella.JPG",
+        "memorial": "stele",
+        "name": "Место казни декабристов",
+        "name:en": "Decembrists execution site",
+        "start_date": "1975",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3181338,
+          59.9534505
+        ]
+      },
+      "id": "node/1579387418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1586975009",
+        "name": "Вид на дом Капустина",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2970797,
+          59.9165525
+        ]
+      },
+      "id": "node/1586975009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1598866096",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3103427,
+          60.0416155
+        ]
+      },
+      "id": "node/1598866096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1726109504",
+        "addr:housenumber": "39",
+        "addr:postcode": "199397",
+        "addr:street": "улица Кораблестроителей",
+        "attraction": "urban",
+        "material": "concrete",
+        "name": "Репка",
+        "playground": "structure;slide",
+        "playground:theme": "The Giant Turnip",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2316183,
+          59.9549277
+        ]
+      },
+      "id": "node/1726109504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1833242131",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2986232,
+          59.9390253
+        ]
+      },
+      "id": "node/1833242131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1833271775",
+        "inscription": "Речной якорь корабля Русского флота. Олонецкий завод 1723год. Найден на Васильевском острове в 2001 году. Установлен в честь 300-летия Санкт-Петербурга",
+        "name": "Якорь",
+        "name:en": "Anchor",
+        "name:fr": "Ancre",
+        "name:zh": "锚",
+        "start_date": "2003.05.23",
+        "tourism": "attraction",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3062658,
+          59.943995
+        ]
+      },
+      "id": "node/1833271775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1882593319",
+        "description:en": "Gas lights around Przhevalsky monument.",
+        "name": "Газовые фонари вокруг памятника Пржевальскому",
+        "name:en": "Gas lights around Przhevalsky monument",
+        "name:es": "lámparas de gas alrededor del monumento Przhevalsky",
+        "name:ru": "Газовые фонари вокруг памятника Пржевальскому",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3078349,
+          59.9361132
+        ]
+      },
+      "id": "node/1882593319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2119158141",
+        "description": "Памятный знак \"Историческая и духовная связь Москвы и Санкт-Петербурга\"",
+        "historic": "milestone",
+        "start_date": "2003-09-16",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3256205,
+          59.840932
+        ]
+      },
+      "id": "node/2119158141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2197612079",
+        "name": "Семимостье",
+        "name:en": "Seven Bridges",
+        "name:ru": "Семимостье",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.298713,
+          59.9207171
+        ]
+      },
+      "id": "node/2197612079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2282794448",
+        "name": "Крест",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1752835,
+          59.8529406
+        ]
+      },
+      "id": "node/2282794448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2290807216",
+        "name": "Набережная Невы",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4409221,
+          59.8930952
+        ]
+      },
+      "id": "node/2290807216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2290807265",
+        "name": "Памятник Ткачам",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4296375,
+          59.8939037
+        ]
+      },
+      "id": "node/2290807265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2400928307",
+        "name": "Ротонда",
+        "name:en": "Rotunda",
+        "opening_hours": "Mo-Fr 18:00-22:00; Sa-Su 11:00-22:00",
+        "tourism": "attraction",
+        "website": "https://vk.com/rotondaeveryday"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3257431,
+          59.9256318
+        ]
+      },
+      "id": "node/2400928307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2426962446",
+        "architect": "В. Б. Бухаев",
+        "artist_name": "А. С. Чаркин",
+        "height": "1.9",
+        "historic": "memorial",
+        "memorial": "statue",
+        "name": "Памятник Остапу Бендеру",
+        "start_date": "2000-07-25",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikidata": "Q25396029",
+        "wikipedia": "ru:Памятник Остапу Бендеру (Санкт-Петербург)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3285834,
+          59.937083
+        ]
+      },
+      "id": "node/2426962446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2463438527",
+        "name": "Колокол 300-летия",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1332718,
+          59.8614459
+        ]
+      },
+      "id": "node/2463438527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2463438532",
+        "name": "Якорь",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1327608,
+          59.8614918
+        ]
+      },
+      "id": "node/2463438532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2463438533",
+        "name": "Яхт-клуб \"Балтиец\"",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1326666,
+          59.8614932
+        ]
+      },
+      "id": "node/2463438533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2484334091",
+        "description": "Живописный дворик с граффити видов итальянских городов на стенах",
+        "name": "Дворик на Итальянской 29",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3390933,
+          59.9352702
+        ]
+      },
+      "id": "node/2484334091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2780935910",
+        "historic": "printing_press",
+        "name": "Печатный станок",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3149351,
+          59.9694521
+        ]
+      },
+      "id": "node/2780935910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2891968783",
+        "name": "Юный",
+        "operator": "Малая Октябрьская железная дорога",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "tourism": "attraction",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2954338,
+          60.0257291
+        ]
+      },
+      "id": "node/2891968783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2910190828",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.297219,
+          60.0514076
+        ]
+      },
+      "id": "node/2910190828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3135946970",
+        "amenity": "bench",
+        "name": "Хитрая скамейка",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3341026,
+          59.9196001
+        ]
+      },
+      "id": "node/3135946970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3140979976",
+        "name": "Нева",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.473037,
+          59.8679599
+        ]
+      },
+      "id": "node/3140979976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3390091916",
+        "name": "Двор искусств",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3501224,
+          59.936349
+        ]
+      },
+      "id": "node/3390091916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3588556914",
+        "alt_name": "Тройной мост; Трёхарковый мост",
+        "name": "Трёхмостье",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3288837,
+          59.9416108
+        ]
+      },
+      "id": "node/3588556914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3652849699",
+        "description": "Парк дворовой скульптуры, выполненной из пластиковых бутылок",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3188928,
+          60.0615117
+        ]
+      },
+      "id": "node/3652849699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3658412519",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4079236,
+          59.9421804
+        ]
+      },
+      "id": "node/3658412519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3768499136",
+        "name": "Арка Новой Голландии",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2904266,
+          59.9279399
+        ]
+      },
+      "id": "node/3768499136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3783787133",
+        "amenity": "shelter",
+        "name": "Навес товарищества Железо-бетон 1908",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2817859,
+          59.9809608
+        ]
+      },
+      "id": "node/3783787133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3970114272",
+        "name": "Вид на юг города",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3230298,
+          59.7749854
+        ]
+      },
+      "id": "node/3970114272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999825271",
+        "description": "Памятник русскому линейному кораблю «Полтава»",
+        "historic": "memorial",
+        "memorial": "sculpture",
+        "name": "Памятный знак кораблю «Полтава»",
+        "name:en": "Poltava Warship",
+        "start_date": "2015-03-06",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3594785,
+          59.9498594
+        ]
+      },
+      "id": "node/3999825271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4088197040",
+        "description": "Вид на мосты",
+        "description:es": "Vista panorámica",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3016537,
+          59.9370867
+        ]
+      },
+      "id": "node/4088197040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4118498160",
+        "name": "Идолы",
+        "name:en": "Idols",
+        "name:es": "ídolos",
+        "tourism": "attraction",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3042055,
+          59.9417815
+        ]
+      },
+      "id": "node/4118498160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4173489109",
+        "historic": "memorial",
+        "memorial": "stele",
+        "name": "Водомерный столб",
+        "tourism": "attraction",
+        "wikidata": "Q4420947",
+        "wikipedia": "ru:Система наблюдения за уровнем воды в Санкт-Петербурге"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3077275,
+          59.9315433
+        ]
+      },
+      "id": "node/4173489109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4217771773",
+        "name": "Полуденные пушки",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3165557,
+          59.9485382
+        ]
+      },
+      "id": "node/4217771773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4223463489",
+        "name": "улица Лунных Кошек",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3008843,
+          59.9787059
+        ]
+      },
+      "id": "node/4223463489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4226406296",
+        "historic": "memorial",
+        "image": "File:Дуб Петра Великого.jpg",
+        "name": "Дуб Петра Великого",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2824428,
+          59.9745191
+        ]
+      },
+      "id": "node/4226406296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4242525689",
+        "name": "Павильон \"Морская башня\"",
+        "name:en": "Naval tower",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3290722,
+          59.7726619
+        ]
+      },
+      "id": "node/4242525689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4271175480",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3087045,
+          59.9410186
+        ]
+      },
+      "id": "node/4271175480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4271176767",
+        "name": "Дворцовый мост",
+        "name:zh": "冬宮橋",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3082398,
+          59.9408447
+        ]
+      },
+      "id": "node/4271176767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4271179317",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3075003,
+          59.9413394
+        ]
+      },
+      "id": "node/4271179317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4271179826",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3079678,
+          59.9415137
+        ]
+      },
+      "id": "node/4271179826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275052092",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4018246,
+          59.9427554
+        ]
+      },
+      "id": "node/4275052092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275133792",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3636446,
+          59.9498707
+        ]
+      },
+      "id": "node/4275133792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275133991",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.287685,
+          59.9493955
+        ]
+      },
+      "id": "node/4275133991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275133992",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4017638,
+          59.9425332
+        ]
+      },
+      "id": "node/4275133992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275133993",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3241611,
+          59.9450034
+        ]
+      },
+      "id": "node/4275133993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275169989",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.335961,
+          59.9536
+        ]
+      },
+      "id": "node/4275169989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275170090",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4066751,
+          59.9534573
+        ]
+      },
+      "id": "node/4275170090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275170091",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4063688,
+          59.9512309
+        ]
+      },
+      "id": "node/4275170091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275170092",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4054294,
+          59.9463448
+        ]
+      },
+      "id": "node/4275170092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275170093",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3200083,
+          59.9437838
+        ]
+      },
+      "id": "node/4275170093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275172789",
+        "name": "Обзор ангела",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3164448,
+          59.9426393
+        ]
+      },
+      "id": "node/4275172789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4329332291",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4053204,
+          59.9434142
+        ]
+      },
+      "id": "node/4329332291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4355189769",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "description": "На доме со стороны сквера надпись:\"На этом месте было явление Богородицы в 1890 году\". Явление Божией Матери прикованному к коляске мальчику Николаю Грачеву призошло в декабре 1890 г. ",
+        "name": "Место явления Богородицы в 1890 году",
+        "religion": "christian",
+        "source": "http://photos.wikimapia.org/p/00/01/56/00/47_big.jpg",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3028399,
+          59.9570468
+        ]
+      },
+      "id": "node/4355189769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4357254792",
+        "name": "Памятные кресла",
+        "name:ru": "Памятные кресла",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3113405,
+          59.9558867
+        ]
+      },
+      "id": "node/4357254792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4357292889",
+        "name": "Памятные кресла",
+        "name:ru": "Памятные кресла",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3123808,
+          59.956207
+        ]
+      },
+      "id": "node/4357292889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4357819089",
+        "name": "Бенуарики у сада Бенуа",
+        "tourism": "attraction",
+        "website": "https://benua1890.ru/benuariki"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3712462,
+          60.0197458
+        ]
+      },
+      "id": "node/4357819089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4370113243",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3234751,
+          59.8678241
+        ]
+      },
+      "id": "node/4370113243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4377639990",
+        "name": "Усадьба Демидовых",
+        "name:ru": "Усадьба Демидовых",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3126597,
+          59.9313947
+        ]
+      },
+      "id": "node/4377639990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4379570362",
+        "name:zh": "聖三一橋",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3272677,
+          59.9487833
+        ]
+      },
+      "id": "node/4379570362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4379570363",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3211882,
+          59.9499321
+        ]
+      },
+      "id": "node/4379570363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4382955995",
+        "name": "Алые паруса",
+        "name:ru": "Алые паруса",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3479618,
+          59.9127435
+        ]
+      },
+      "id": "node/4382955995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4384869089",
+        "addr:housenumber": "3",
+        "addr:street": "Невский проспект",
+        "name": "Дворик Ангела",
+        "name:ru": "Дворик Ангела",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3126363,
+          59.936668
+        ]
+      },
+      "id": "node/4384869089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4417333894",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2400872,
+          59.8131855
+        ]
+      },
+      "id": "node/4417333894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4417343491",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2972093,
+          59.8108156
+        ]
+      },
+      "id": "node/4417343491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4437884663",
+        "contact:phone": "+7 812 9385506",
+        "contact:vk": "https://vk.com/bm5spb",
+        "name": "Дом Великана",
+        "name:en": "Giant’s house",
+        "name:zh": "巨人之家",
+        "opening_hours": "Mo-Su 11:00-24:00",
+        "tourism": "attraction",
+        "website": "https://big-funny.com/sankt-peterburg/dom-velikana",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3172997,
+          59.9369435
+        ]
+      },
+      "id": "node/4437884663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4437884664",
+        "contact:phone": "+7 812 9385506",
+        "contact:vk": "https://vk.com/bm5spb",
+        "name": "Стеклянный лабиринт",
+        "opening_hours": "Mo-Su 11:00-24:00",
+        "tourism": "attraction",
+        "website": "https://big-funny.com/v-sankt-peterburge/steklyannyj-labirint",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3173011,
+          59.9369791
+        ]
+      },
+      "id": "node/4437884664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4486774693",
+        "attraction": "quest_room",
+        "level": "-1",
+        "name": "iLocked",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3148066,
+          59.9560304
+        ]
+      },
+      "id": "node/4486774693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4513740290",
+        "description": "Двор №360",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.311787,
+          59.9135283
+        ]
+      },
+      "id": "node/4513740290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4679719891",
+        "name": "Доходный дом Шредера",
+        "name:ru": "Доходный дом Шредера",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2812255,
+          59.9218883
+        ]
+      },
+      "id": "node/4679719891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4701497789",
+        "name": "Особняк Шретера",
+        "name:ru": "Особняк Шретера",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2857533,
+          59.9285677
+        ]
+      },
+      "id": "node/4701497789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4729314732",
+        "name": "пушка",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.313348,
+          59.9525496
+        ]
+      },
+      "id": "node/4729314732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4729652380",
+        "name": "Конюшни Михайловского замка",
+        "tourism": "attraction",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3403739,
+          59.9376903
+        ]
+      },
+      "id": "node/4729652380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4798307372",
+        "name": "Роспись",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2930685,
+          60.0597882
+        ]
+      },
+      "id": "node/4798307372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4798307373",
+        "name": "Витраж",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2923062,
+          60.0607336
+        ]
+      },
+      "id": "node/4798307373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4888980746",
+        "contact:instagram": "https://www.instagram.com/sweet_museum_spb/",
+        "contact:vk": "https://vk.com/sweetmuseum78",
+        "level": "1",
+        "name": "Сладкий музей",
+        "tourism": "attraction",
+        "website": "https://sweetmuseum.ru/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3185736,
+          59.9361697
+        ]
+      },
+      "id": "node/4888980746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4889041322",
+        "contact:instagram": "https://www.instagram.com/dom__naoborot/",
+        "name": "Дом наоборот",
+        "opening_hours": "10:00-22:00",
+        "tourism": "attraction",
+        "website": "https://domnaoborot.ru/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3178452,
+          59.9369019
+        ]
+      },
+      "id": "node/4889041322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4915750773",
+        "contact:vk": "https://vk.com/dvdspb",
+        "name": "Дом вверх дном",
+        "opening_hours": "12:00-23:30",
+        "tourism": "attraction",
+        "website": "https://domvverhdnom.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3130697,
+          59.9368106
+        ]
+      },
+      "id": "node/4915750773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4972842021",
+        "name": "Трубочист",
+        "name:ru": "Трубочист",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3461739,
+          59.9265317
+        ]
+      },
+      "id": "node/4972842021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5030292121",
+        "name": "2 якоря",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2945359,
+          59.9283929
+        ]
+      },
+      "id": "node/5030292121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5045333979",
+        "name": "Пушка",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1674978,
+          59.9856462
+        ]
+      },
+      "id": "node/5045333979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5045333980",
+        "name": "Пушка",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1675542,
+          59.9856424
+        ]
+      },
+      "id": "node/5045333980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5045333981",
+        "name": "Пушка",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.167608,
+          59.9856382
+        ]
+      },
+      "id": "node/5045333981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5045333993",
+        "name": "Колокол",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1673754,
+          59.985672
+        ]
+      },
+      "id": "node/5045333993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5141182342",
+        "name": "Батискаф Тетис-Н",
+        "source": "http://www.deepstorm.ru/DeepStorm.files/45-92/cda/tetis/tetis9.htm",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.21897,
+          59.958906
+        ]
+      },
+      "id": "node/5141182342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5150429561",
+        "name": "Дуб черешчатый",
+        "name:la": "Quercus robur L.",
+        "name:ru": "Дуб черешчатый",
+        "natural": "tree",
+        "species": "Quercus robur L.",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3324392,
+          59.9403758
+        ]
+      },
+      "id": "node/5150429561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5150436688",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "name": "Дуб черешчатый",
+        "name:la": "Quercus robur L.",
+        "name:ru": "Дуб черешчатый",
+        "natural": "tree",
+        "species": "Quercus robur L.",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3362346,
+          59.9464426
+        ]
+      },
+      "id": "node/5150436688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5198972326",
+        "name": "Якорь",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2094144,
+          59.9419383
+        ]
+      },
+      "id": "node/5198972326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5198972327",
+        "name": "Винт",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2080142,
+          59.9424408
+        ]
+      },
+      "id": "node/5198972327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5198972328",
+        "name": "Винт",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2087948,
+          59.941593
+        ]
+      },
+      "id": "node/5198972328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5198972329",
+        "name": "Якорь",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2089423,
+          59.9424448
+        ]
+      },
+      "id": "node/5198972329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5233792107",
+        "name": "Водонапорная башня Обуховского завода",
+        "name:ru": "Пристрельная башня",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4840337,
+          59.8691688
+        ]
+      },
+      "id": "node/5233792107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5257740630",
+        "attraction": "urban",
+        "name": "Первый панельный дом в Ленинграде",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.437104,
+          59.8758436
+        ]
+      },
+      "id": "node/5257740630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5263894121",
+        "fee": "yes",
+        "name": "обзорная площадка «Крыша»",
+        "name:en": "Roof observation deck",
+        "name:ru": "обзорная площадка «Крыша»",
+        "tourism": "viewpoint",
+        "website": "https://vk.com/roofwithview"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3554773,
+          59.9220086
+        ]
+      },
+      "id": "node/5263894121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5324730821",
+        "description": "здание построенное в эпоху Конструктивизма, 1932г.",
+        "name": "Дом Колбаса",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4354423,
+          59.8790696
+        ]
+      },
+      "id": "node/5324730821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5328104523",
+        "name": "Каток",
+        "opening_hours": "Mo-Fr 12:00-21:45; Sa-Su 11:00-21:45",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1685041,
+          59.8519738
+        ]
+      },
+      "id": "node/5328104523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5423059522",
+        "description": "Памятная табличка \"В этом доме жил А.И.Маринеско\"",
+        "historic": "memorial",
+        "inscription": "В этом доме жил А.И.Маринеско",
+        "memorial": "plaque",
+        "name": "В этом доме жил Александр Иванович Маринеско",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2666815,
+          59.8699209
+        ]
+      },
+      "id": "node/5423059522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5455073772",
+        "addr:city": "Санкт-Петербург",
+        "addr:housenumber": "22",
+        "addr:street": "Свердловская набережная",
+        "name": "Дача Дурново",
+        "name:en": "Dacha Durnovo",
+        "tourism": "attraction",
+        "wikidata": "Q4155396",
+        "wikipedia": "ru:Дача Дурново"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3879354,
+          59.9602233
+        ]
+      },
+      "id": "node/5455073772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5474042824",
+        "addr:city": "Санкт-Петербург",
+        "addr:housenumber": "25",
+        "addr:street": "Афонская улица",
+        "name": "Солнечный город",
+        "note": "Детский развлекательный центр",
+        "opening_hours": "Mo-Su 10:00-20:00",
+        "phone": "+7 812 5096013",
+        "tourism": "attraction",
+        "website": "http://suntownspb.ru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3037677,
+          60.0259017
+        ]
+      },
+      "id": "node/5474042824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5598894204",
+        "attraction": "urban",
+        "material": "concrete",
+        "name": "Волна",
+        "playground": "structure",
+        "playground:theme": "wave",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.220213,
+          59.9523499
+        ]
+      },
+      "id": "node/5598894204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5652283508",
+        "name": "Якорь",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2426375,
+          59.9555549
+        ]
+      },
+      "id": "node/5652283508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5677291322",
+        "addr:street": "проспект Авиаконструкторов",
+        "name": "Статуя \"Семья\"",
+        "name:en": "Family",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2498193,
+          60.0115464
+        ]
+      },
+      "id": "node/5677291322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5717654947",
+        "addr:city": "Санкт-Петербург",
+        "addr:housenumber": "28",
+        "addr:street": "Большая Зеленина улица",
+        "description": "Доминантой главного фасада является огромный мозаичный фриз, состоящий из пяти больших мозаичных панно, созданных в 1905",
+        "name": "Доходный дом герцога Н. Н. Лейхтенбергского",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2858887,
+          59.9641762
+        ]
+      },
+      "id": "node/5717654947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5761967953",
+        "name": "Мраморный шар",
+        "tourism": "attraction",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3065919,
+          59.9446646
+        ]
+      },
+      "id": "node/5761967953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5761980053",
+        "name": "Мраморный шар",
+        "tourism": "attraction",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3076275,
+          59.9438261
+        ]
+      },
+      "id": "node/5761980053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5810252457",
+        "name": "Садик Маленького принца",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3941887,
+          60.0080692
+        ]
+      },
+      "id": "node/5810252457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5840250780",
+        "image": "https://web.archive.org/web/20180818183932if_/https://sites.google.com/site/pamatnikidruzamnasimmensim/_/rsrc/1484761956379/home/koty-sankt-peterburga/памятник бездомный кот.png",
+        "name": "Бездомный кот",
+        "note": "На archive.org потому, что сайт может исчезнуть в любой момент",
+        "opening_hours": "24/7",
+        "tourism": "attraction",
+        "url": "https://web.archive.org/web/20180818184503/https://sites.google.com/site/pamatnikidruzamnasimmensim/home/koty-sankt-peterburga",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3151173,
+          59.8498985
+        ]
+      },
+      "id": "node/5840250780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5848829763",
+        "name": "Дерево посажено в честь 50-ти летия СССР трижды героем Советского Союза И. Н. Кожедубом в 1967 г.",
+        "natural": "tree",
+        "start_date": "1967",
+        "tourism": "attraction",
+        "wikipedia": "ru:Кожедуб, Иван Никитович"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3140098,
+          59.989739
+        ]
+      },
+      "id": "node/5848829763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5922815917",
+        "description": "Петропавловский собор сквозь крылья Дворцового моста",
+        "description:en": "Peter and Paul Cathedral through the wings of the Palace Bridge",
+        "description:es": "Catedral de Pablo y Pedro",
+        "direction": "25",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3059632,
+          59.938752
+        ]
+      },
+      "id": "node/5922815917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5934862149",
+        "name": "Ординар",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2701755,
+          59.9291262
+        ]
+      },
+      "id": "node/5934862149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5955769967",
+        "disused": "yes",
+        "heritage": "3",
+        "heritage:name": "Канатный цех с водонапорной башней завода «Красный гвоздильщик»",
+        "historic": "yes",
+        "man_made": "water_tower",
+        "name": "Водонапорная башня завода «Красный гвоздильщик»",
+        "ref:egrokn": "781410300340005",
+        "tourism": "attraction",
+        "wikidata": "Q4114106",
+        "wikipedia": "ru:Водонапорная башня завода «Красный гвоздильщик»"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2649834,
+          59.9283231
+        ]
+      },
+      "id": "node/5955769967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5976574486",
+        "name": "Красочный кот",
+        "name:en": "Nicely cat",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3701466,
+          59.9277753
+        ]
+      },
+      "id": "node/5976574486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5982298887",
+        "name": "Гидробашня СПбПУ",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3741965,
+          60.0057662
+        ]
+      },
+      "id": "node/5982298887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5994000988",
+        "name": "Западный Кроншпиц",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2263369,
+          59.9287676
+        ]
+      },
+      "id": "node/5994000988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6036415886",
+        "name": "Улица Джона Леннона",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3590907,
+          59.9292217
+        ]
+      },
+      "id": "node/6036415886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6086174685",
+        "description": "паровоз, товарный вагон и тепловоз",
+        "historic": "locomotive",
+        "name": "Паровоз",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4242543,
+          59.8852869
+        ]
+      },
+      "id": "node/6086174685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6087237485",
+        "name": "Маяк Лесной мол створный задний",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2164885,
+          59.8777521
+        ]
+      },
+      "id": "node/6087237485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6120160629",
+        "description": "Макет верстового столба, от которого отсчитываются все расстояния от Петербурга до иных населённых пунктов.",
+        "name": "Нулевая верста",
+        "tourism": "attraction",
+        "wikidata": "Q329477",
+        "wikipedia": "ru:Нулевой километр"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3007345,
+          59.9322604
+        ]
+      },
+      "id": "node/6120160629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6146152008",
+        "addr:city": "Санкт-Петербург",
+        "addr:housenumber": "4",
+        "addr:postcode": "191025",
+        "addr:street": "улица Маяковского",
+        "amenity": "cafe",
+        "cuisine": "regional;русская;пельмени",
+        "email": "lepimivarimspb@gmail.com",
+        "internet_access": "no",
+        "name": "Лепим и варим",
+        "opening_hours": "11:00-23:00",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:electronic_purses": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:telephone_cards": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "payment:visa_electron": "yes",
+        "phone": "+7 921 9999010",
+        "smoking": "no",
+        "start_date": "13.10.2018",
+        "takeaway": "yes",
+        "tourism": "attraction",
+        "website": "lepimivarim.ru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3540068,
+          59.9329887
+        ]
+      },
+      "id": "node/6146152008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6208149784",
+        "name": "Пять углов",
+        "tourism": "viewpoint",
+        "wikidata": "Q4386102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3424694,
+          59.9262276
+        ]
+      },
+      "id": "node/6208149784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6237348586",
+        "name": "ДОТ рубежа «Ижора»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3368491,
+          59.8583663
+        ]
+      },
+      "id": "node/6237348586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6263883986",
+        "name:zh": "大炮在中午射擊",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3176349,
+          59.9484329
+        ]
+      },
+      "id": "node/6263883986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6307077285",
+        "name": "Дом, где жил Маяковский",
+        "name:en": "The house where lived Mayakovskiy",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3550503,
+          59.9430606
+        ]
+      },
+      "id": "node/6307077285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6307077286",
+        "name": "Дом, где жили Брики",
+        "name:en": "The house where lived Lilya Brik with husband",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3552348,
+          59.9357937
+        ]
+      },
+      "id": "node/6307077286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6307077287",
+        "name": "Ленинградский рок-клуб",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3438113,
+          59.9294536
+        ]
+      },
+      "id": "node/6307077287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6307077288",
+        "name": "Дом, в котором жил Борис Стругацкий",
+        "name:en": "Boris Strugatsky's house",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3154967,
+          59.8587221
+        ]
+      },
+      "id": "node/6307077288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6307077585",
+        "name": "Дом Иосифа Бродского",
+        "name:en": "Brodskiy's house",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3488451,
+          59.9424161
+        ]
+      },
+      "id": "node/6307077585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6352210785",
+        "name": "Дача Чернова",
+        "tourism": "attraction",
+        "website": "https://ru.wikipedia.org/wiki/Дача_Чернова"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4622768,
+          59.8753039
+        ]
+      },
+      "id": "node/6352210785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6367683394",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2402597,
+          59.9238544
+        ]
+      },
+      "id": "node/6367683394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6405282189",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2829192,
+          59.931444
+        ]
+      },
+      "id": "node/6405282189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6423089787",
+        "access": "yes",
+        "addr:housenumber": "101/1",
+        "addr:street": "Лиговский проспект",
+        "name": "Фреска из Италии",
+        "name:en": "Fresco from Italy",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3539371,
+          59.922168
+        ]
+      },
+      "id": "node/6423089787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6469040885",
+        "name": "Дача Громова",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3051278,
+          59.9762858
+        ]
+      },
+      "id": "node/6469040885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6482900274",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2488886,
+          59.9217284
+        ]
+      },
+      "id": "node/6482900274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6510941398",
+        "name": "Дом русской сказки",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3515827,
+          59.9280705
+        ]
+      },
+      "id": "node/6510941398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6514921585",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3079572,
+          59.9312851
+        ]
+      },
+      "id": "node/6514921585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6611417086",
+        "name": "Вольер с кроликами",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3139804,
+          60.0068259
+        ]
+      },
+      "id": "node/6611417086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6685637385",
+        "name": "Особняк Штифтера",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3445097,
+          59.9440059
+        ]
+      },
+      "id": "node/6685637385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6687779485",
+        "name": "Дом исполнения желаний",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3087671,
+          59.9271706
+        ]
+      },
+      "id": "node/6687779485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6687811585",
+        "name": "Дом политкаторжанин",
+        "name:ru": "Дом политкаторжан",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3280915,
+          59.9526413
+        ]
+      },
+      "id": "node/6687811585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6759802109",
+        "name": "Бронированная огневая точка «Ижорская башня»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2534492,
+          59.8761528
+        ]
+      },
+      "id": "node/6759802109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6759802110",
+        "name": "Долговременная огневая точка «Рубеж «Ижора»»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2536535,
+          59.8761343
+        ]
+      },
+      "id": "node/6759802110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6763207185",
+        "name": "Вид на залив",
+        "name:en": "Viewpoint",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.107357,
+          59.8631144
+        ]
+      },
+      "id": "node/6763207185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6830995547",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2101912,
+          59.9727851
+        ]
+      },
+      "id": "node/6830995547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6832816785",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2521444,
+          59.9771159
+        ]
+      },
+      "id": "node/6832816785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6865861985",
+        "name": "Дома на курьих ножках",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2259683,
+          59.9475628
+        ]
+      },
+      "id": "node/6865861985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6892684092",
+        "name": "Мастерская Ветрогонского",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3125821,
+          59.9697027
+        ]
+      },
+      "id": "node/6892684092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7080782987",
+        "name:ja": "ライオン像",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3323155,
+          59.9384585
+        ]
+      },
+      "id": "node/7080782987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7112611685",
+        "addr:street": "Гороховая улица",
+        "name": "Красный мост",
+        "name:en": "Red Bridge",
+        "tourism": "attraction",
+        "website": "https://mir-360.space/red-bridge/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3152266,
+          59.9330078
+        ]
+      },
+      "id": "node/7112611685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7167549885",
+        "name": "Летний дворец князей Белосельских-Белозерских",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2595852,
+          59.9664559
+        ]
+      },
+      "id": "node/7167549885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7357684685",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1978636,
+          59.8941831
+        ]
+      },
+      "id": "node/7357684685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7379721890",
+        "name": "Бывшая пожарная часть",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4949058,
+          59.9760695
+        ]
+      },
+      "id": "node/7379721890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7532311480",
+        "name": "Лев",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3073646,
+          59.93531
+        ]
+      },
+      "id": "node/7532311480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7532311481",
+        "name": "Лев",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3074471,
+          59.935343
+        ]
+      },
+      "id": "node/7532311481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7552322490",
+        "name": "Восточный Кроншпиц",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2273446,
+          59.9288318
+        ]
+      },
+      "id": "node/7552322490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7605781790",
+        "name": "ЖБОТ О-19",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4175293,
+          59.8540897
+        ]
+      },
+      "id": "node/7605781790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7605804486",
+        "name": "ЖБОТ",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4608854,
+          59.8343024
+        ]
+      },
+      "id": "node/7605804486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7633269376",
+        "historic": "bastion",
+        "name": "Меншиков бастион",
+        "name:en": "Menshikov Bastion",
+        "name:ru": "Меншиков бастион",
+        "tourism": "attraction",
+        "wikidata": "Q4290614",
+        "wikipedia": "ru:Меншиков бастион Петропавловской крепости"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3197229,
+          59.9516205
+        ]
+      },
+      "id": "node/7633269376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7633269377",
+        "historic": "bastion",
+        "name": "Государев бастион",
+        "name:en": "Gosudarev Bastion",
+        "name:ru": "Государев бастион",
+        "tourism": "attraction",
+        "wikidata": "Q4146531",
+        "wikipedia": "ru:Государев бастион Петропавловской крепости"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3204364,
+          59.9500625
+        ]
+      },
+      "id": "node/7633269377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7633269378",
+        "historic": "bastion",
+        "name": "Нарышкин бастион",
+        "name:en": "Naryshkin Bastion",
+        "name:ru": "Нарышкин бастион",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3173572,
+          59.9487328
+        ]
+      },
+      "id": "node/7633269378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7633269379",
+        "historic": "bastion",
+        "name": "Головкин бастион",
+        "name:en": "Golovkin Bastion",
+        "name:ru": "Головкин бастион",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.315721,
+          59.9515937
+        ]
+      },
+      "id": "node/7633269379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7633269380",
+        "historic": "bastion",
+        "name": "Зотов бастион",
+        "name:en": "Zotov Bastion",
+        "name:ru": "Зотов бастион",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3125828,
+          59.9499014
+        ]
+      },
+      "id": "node/7633269380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7633269381",
+        "historic": "bastion",
+        "name": "Трубецкой бастион",
+        "name:en": "Trubetskoy Bastion",
+        "name:ru": "Трубецкой бастион",
+        "tourism": "attraction",
+        "wikidata": "Q4464181",
+        "wikipedia": "ru:Трубецкой бастион Петропавловской крепости"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3133875,
+          59.9485448
+        ]
+      },
+      "id": "node/7633269381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7637340685",
+        "name": "Мира",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.325062,
+          59.7696347
+        ]
+      },
+      "id": "node/7637340685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7637340785",
+        "name": "Мира",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3250584,
+          59.7691611
+        ]
+      },
+      "id": "node/7637340785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7637340885",
+        "name": "Фокусер Большого пулковского радиотелескопа",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3218384,
+          59.7679787
+        ]
+      },
+      "id": "node/7637340885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7637341085",
+        "name": "астрономический павильон",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3339363,
+          59.7675529
+        ]
+      },
+      "id": "node/7637341085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7650288586",
+        "historic": "anchor",
+        "name": "Якорь",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.242722,
+          59.9277027
+        ]
+      },
+      "id": "node/7650288586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7661678528",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3120382,
+          59.9284808
+        ]
+      },
+      "id": "node/7661678528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7677808945",
+        "historic": "anchor",
+        "name": "Якорь",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3042881,
+          59.9850534
+        ]
+      },
+      "id": "node/7677808945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7677808946",
+        "historic": "anchor",
+        "name": "Якорь",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3039113,
+          59.9851285
+        ]
+      },
+      "id": "node/7677808946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7677808950",
+        "historic": "cannon",
+        "name": "Пушка",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3026935,
+          59.9837828
+        ]
+      },
+      "id": "node/7677808950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7677808951",
+        "historic": "cannon",
+        "name": "Пушка",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3033815,
+          59.9836533
+        ]
+      },
+      "id": "node/7677808951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7677808952",
+        "historic": "anchor",
+        "name": "Якорь",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.302656,
+          59.9837861
+        ]
+      },
+      "id": "node/7677808952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7677808953",
+        "historic": "anchor",
+        "name": "Якорь",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3034177,
+          59.9836452
+        ]
+      },
+      "id": "node/7677808953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7743166878",
+        "name": "Метеорологический павильон",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3448177,
+          59.9415102
+        ]
+      },
+      "id": "node/7743166878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7780657985",
+        "name": "Горгульи",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3084901,
+          59.9235621
+        ]
+      },
+      "id": "node/7780657985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7794915044",
+        "name": "Movie Art",
+        "tourism": "attraction",
+        "website": "https://big-funny.com/v-sankt-peterburge/movie-art"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3173038,
+          59.9370459
+        ]
+      },
+      "id": "node/7794915044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7794915045",
+        "name": "Ленточный лабиринт",
+        "tourism": "attraction",
+        "website": "https://big-funny.com/v-sankt-peterburge/lentochnyj-labirint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3173093,
+          59.937183
+        ]
+      },
+      "id": "node/7794915045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7815540675",
+        "name": "Птичий дворик",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3160965,
+          59.9362906
+        ]
+      },
+      "id": "node/7815540675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7820574485",
+        "name": "Дом из кинофильма \"Питер FM\"",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2950478,
+          59.9169767
+        ]
+      },
+      "id": "node/7820574485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7834855785",
+        "name": "Голубятня",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.385197,
+          60.0254823
+        ]
+      },
+      "id": "node/7834855785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7837230585",
+        "name": "Пасечник",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3723763,
+          60.0193947
+        ]
+      },
+      "id": "node/7837230585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7876544949",
+        "name": "Витебский вокзал, Императорский павильон",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3303761,
+          59.9180425
+        ]
+      },
+      "id": "node/7876544949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7905857185",
+        "name": "Крокодил",
+        "name:en": "Crocodile",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4228086,
+          60.0033257
+        ]
+      },
+      "id": "node/7905857185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7923627585",
+        "name": "Пиковый перекрёсток",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3118829,
+          59.9352817
+        ]
+      },
+      "id": "node/7923627585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7925364885",
+        "addr:housenumber": "9",
+        "addr:street": "Захарьевская улица",
+        "name": "Герои из Советских Мультиков",
+        "name:en": "Heroes from Soviet Cartoons",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3529777,
+          59.9473262
+        ]
+      },
+      "id": "node/7925364885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7932398588",
+        "addr:housenumber": "2",
+        "addr:street": "улица Чайковского",
+        "name": "Мозаичный дворик",
+        "opening_hours": "24/7",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3391426,
+          59.9470523
+        ]
+      },
+      "id": "node/7932398588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8071191585",
+        "name": "Особняк княгини П.Ф.Веревкиной",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2928078,
+          59.9778281
+        ]
+      },
+      "id": "node/8071191585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8071223117",
+        "name": "Оранжереи Каменноостровского дворца",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2996578,
+          59.978277
+        ]
+      },
+      "id": "node/8071223117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8071287124",
+        "name": "Особняк Яковенко",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2798627,
+          59.9801319
+        ]
+      },
+      "id": "node/8071287124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8071304417",
+        "name": "Служебный флигель",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2806247,
+          59.9795584
+        ]
+      },
+      "id": "node/8071304417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8071342317",
+        "name": "Якорь",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2769866,
+          59.9749869
+        ]
+      },
+      "id": "node/8071342317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8071351617",
+        "name": "Особняк Соловейчик",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2781856,
+          59.9765527
+        ]
+      },
+      "id": "node/8071351617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8072415318",
+        "name": "Особняк Мельцера",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.279638,
+          59.9774913
+        ]
+      },
+      "id": "node/8072415318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8072439517",
+        "name": "Дом княгини Кугушевой",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2919473,
+          59.9769191
+        ]
+      },
+      "id": "node/8072439517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8072439518",
+        "name": "Дом Гозе",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.283666,
+          59.9771904
+        ]
+      },
+      "id": "node/8072439518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8072461317",
+        "name": "Дача Петровой",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2864958,
+          59.9740539
+        ]
+      },
+      "id": "node/8072461317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8072472252",
+        "name": "Дом В.М.Бехтерева",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2939098,
+          59.9771454
+        ]
+      },
+      "id": "node/8072472252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8072480017",
+        "name": "Дом Руадзе",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2857224,
+          59.974618
+        ]
+      },
+      "id": "node/8072480017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8072482817",
+        "name": "Дом Мертенса",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2874487,
+          59.9747416
+        ]
+      },
+      "id": "node/8072482817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8072497317",
+        "name": "Дача Свиягина",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2846742,
+          59.9773347
+        ]
+      },
+      "id": "node/8072497317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8072556717",
+        "name": "Инвалидный дом императора Павла I",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2975246,
+          59.9813881
+        ]
+      },
+      "id": "node/8072556717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8072558417",
+        "name": "Гауптвахта Каменноостровского дворца",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.300649,
+          59.9786598
+        ]
+      },
+      "id": "node/8072558417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8072559818",
+        "name": "Дача Е.П.Леоновой (Дом Апраксина)",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2930475,
+          59.9761136
+        ]
+      },
+      "id": "node/8072559818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8072561817",
+        "name": "Особняк С.И.Михина",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2953683,
+          59.9789577
+        ]
+      },
+      "id": "node/8072561817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8072569218",
+        "name": "Дача Ульяновых",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2846866,
+          59.9746984
+        ]
+      },
+      "id": "node/8072569218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8073951218",
+        "name": "Особняк В.С.Лихаревой",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2874259,
+          59.9757986
+        ]
+      },
+      "id": "node/8073951218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8073951219",
+        "name": "Собственная дача Его Императорского Величества",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2803751,
+          59.9753901
+        ]
+      },
+      "id": "node/8073951219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8073951220",
+        "name": "Особняк Ф.И.Доливо-Добровольской",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2804182,
+          59.9799005
+        ]
+      },
+      "id": "node/8073951220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8073951221",
+        "name": "Приют К.О.Ананьевой",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2949783,
+          59.9802608
+        ]
+      },
+      "id": "node/8073951221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8073951222",
+        "name": "Флигель дачи принца Ольденбургского",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2968795,
+          59.9782741
+        ]
+      },
+      "id": "node/8073951222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8073960917",
+        "name": "Дача Е.И.Кожевниковой",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2857002,
+          59.9740195
+        ]
+      },
+      "id": "node/8073960917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8073960918",
+        "name": "Собственный дом В.И.Шене",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2798852,
+          59.978539
+        ]
+      },
+      "id": "node/8073960918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8073961017",
+        "name": "Флигель особняка Р.Ф.Мельцера",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2787473,
+          59.9772494
+        ]
+      },
+      "id": "node/8073961017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8073964118",
+        "name": "Дача К-1",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2886861,
+          59.9762919
+        ]
+      },
+      "id": "node/8073964118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8073990217",
+        "name": "Гребная база СПбГМТУ",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2786116,
+          59.9741174
+        ]
+      },
+      "id": "node/8073990217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8098788517",
+        "name": "Доходный дом Н.С.Занина, двор-колодец",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2905271,
+          59.953564
+        ]
+      },
+      "id": "node/8098788517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151067117",
+        "name": "Картонная (падающая) стенка",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3189681,
+          59.9397165
+        ]
+      },
+      "id": "node/8151067117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8161330530",
+        "name": "Бывший пороховой погреб",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4756695,
+          59.9685948
+        ]
+      },
+      "id": "node/8161330530"
+    }
+  ]
+}
