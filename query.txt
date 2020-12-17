@@ -9,6 +9,8 @@ You can find more examples with the Load tool.
 area(3600421007)->.searchArea;
 (
   node["tourism"="attraction"](area.searchArea);
+  node["tourism"="historical"](area.searchArea);
+  node["tourism"="museum"](area.searchArea);
   node["tourism"="viewpoint"](area.searchArea);
 );
 /*added by auto repair*/
